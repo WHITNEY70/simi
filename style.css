@@ -1,0 +1,66 @@
+.simi {
+    background-color:white;
+    width: 250px;
+    height: 400px;
+}
+.post-1 {
+    width: 100%;
+    height: 50%;
+    position: absolute;
+    top: 50%;
+    
+}
+.post-2{
+    width: 30%;
+    height: 40%;
+    position: absolute;
+    left: 20%;
+    top: 30%;
+}
+.post-3 {
+    width: 100px;
+    height: 100px;
+    border: none;
+    border-radius: 100%;
+    position: absolute;
+    top: 10%;
+    left: 10%;
+}
+.post-4 {
+    width: 100px;
+    height: 100px;
+    border: none;
+    border-radius: 100%;
+    position: absolute;
+    top: 10%;
+    right: 10%;
+
+}
+.P-1 {
+    color: #FE0000;
+    font-size: 35PX;
+    position: absolute;
+    top:05% ;
+    align-items: center;
+    font-weight: bolder;
+    left: 35%;
+
+
+}
+.P-3 {
+ color: green;
+ font-size: 25PX;
+ font-weight: 800;
+ position: absolute;
+ top: 7%;
+ left:30% ;
+
+}
+.P-2 {
+    color: black;
+    font-size: 18px;
+    font-weight: 900;
+    top: 13%;
+    left: 26%;
+    position: absolute;
+}
